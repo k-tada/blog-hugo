@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:k-tada/k-tada.github.io.git
+[submodule "themes/slender"]
+	path = themes/slender
+	url = git@github.com:k-tada/slender.git

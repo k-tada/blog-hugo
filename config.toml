@@ -1,0 +1,29 @@
+hasCJKLanguage = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://k-tada.github.io/"
+languageCode = "ja"
+title = "はぐれメタボは逃げ出した"
+theme = "slender"
+paginate = 3
+PaginatePath = "/"
+
+[author]
+    name = "k.tada"
+
+[permalinks]
+    page = "/:title/"
+
+    post = "/posts/:year/:month/:day/:title"
+
+[params]
+    colorscheme = "white"
+
+    # tagline = "for Blog"
+
+    email = "mailto:white.rv0925@gmail.com"
+    github = "https://github.com/k-tada/"
+    twitter = "http://twitter.com/shuntxxxeve"
+    facebook = "http://www.facebook.com/100008009220747"
+
