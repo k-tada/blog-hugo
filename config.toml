@@ -15,10 +15,11 @@ PaginatePath = "/"
 [permalinks]
     page = "/:title/"
 
-    post = "/posts/:year/:month/:day/:title"
+    post = "/posts/:year/:month/:day/:filename"
 
 [params]
     colorscheme = "white"
+    footer = ""
 
     # tagline = "for Blog"
 
